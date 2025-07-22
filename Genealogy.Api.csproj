@@ -33,10 +33,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.1" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="9.0.6" />
     <PackageReference Include="System.Diagnostics.PerformanceCounter" Version="9.0.6" />
+    <PackageReference Include="velocist.Services" Version="1.0.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\velocist\velocist.Services\velocist.Services.csproj" />
     <ProjectReference Include="..\Genealogy.Business\Genealogy.Business.csproj" />
     <ProjectReference Include="..\Genealogy.Common\Genealogy.Common.csproj" />
   </ItemGroup>
