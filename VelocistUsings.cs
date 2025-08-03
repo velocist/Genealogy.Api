@@ -1,1 +1,1 @@
-﻿global using static velocist.Services.Log.StaticLoggerFactory;
+﻿global using static velocist.LogService.StaticLoggerFactory;

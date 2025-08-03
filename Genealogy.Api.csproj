@@ -34,7 +34,7 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.3" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="9.0.7" />
     <PackageReference Include="System.Diagnostics.PerformanceCounter" Version="9.0.7" />
-    <PackageReference Include="velocist.Services" Version="1.0.1-debug" />
+    <PackageReference Include="velocist.Services" Version="2.0.2-debug" />
   </ItemGroup>
 
   <ItemGroup>
